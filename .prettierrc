@@ -1,0 +1,16 @@
+{
+	"printWidth": 120,
+	"tabWidth": 4,
+	"useTabs": true,
+	"semi": true,
+	"singleQuote": true,
+	"singleAttributePerLine": true,
+	"jsxSingleQuote": true,
+	"trailingComma": "es5",
+	"bracketSameLine": true,
+	"bracketSpacing": true,
+	"embeddedLanguageFormatting": "auto",
+	"arrowParens": "always",
+	"filepath": "string",
+	"htmlWhitespaceSensitivity": "css"
+}
