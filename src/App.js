@@ -9,7 +9,6 @@ function App() {
 		bip44CoinType: 118,
 		lcd: 'https://testnet-lcd.orai.io',
 		rpc: 'https://testnet-rpc.orai.io',
-		gRPC: 'http://18.118.151.163:9090',
 	};
 
 	const connectWallet = async () => {
